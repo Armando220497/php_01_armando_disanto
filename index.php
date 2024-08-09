@@ -46,4 +46,4 @@ $text8 = "tutto";
 
 // Concatenazione  “Marco Hai sete? Perche' hai bevuto tutto.“
 
-echo $text1 . $text2 . $text3 . $text4 . $text5 . $text2 . $text7 . $text8;
+echo $text1 . " " . $text2 . " " . $text3 . " " . $text4 . " " . $text5 . " " . $text2 . " " . $text7 . " " . $text8;
